@@ -1,0 +1,4 @@
+script/clean
+script/make-jar
+script/doc
+script/run

@@ -1,0 +1,3 @@
+sbt clean
+rm -f ./parser.jar
+rm -rf ./project

@@ -1,0 +1,498 @@
+{
+	"a|det": {},
+
+	"accept|v": {},
+
+	"American|adj": {
+		"cat": ["New American", "Traditional American"]
+	},
+	"American|n": {},
+
+	"American Express|n": {},
+
+	"any|adj": {},
+
+	"anything|n": {},
+
+	"around|prep": {},
+
+	"as|prep": {},
+
+	"at|prep": {},
+
+	"bagel|n": {
+		"cat": ["Bagel Shops"]
+	},
+
+	"baker|n": {
+		"cat": ["Bakeries"],
+		"syn": ["bakery"]
+	},
+
+	"bar|n": {
+		"cat": [
+			"Bars & Pubs", "Bars & Clubs", "Taverns",
+			"Sports Bars", "Pubs", "Brew Pubs"
+		],
+		"syn": ["pub", "tavern"]
+	},
+
+	"barbecue|n": {
+		"cat": ["Barbecue Restaurants"],
+		"syn": ["BBQ"]
+	},
+
+	"be|v": {
+		"syn": ["am", "is", "are"],
+		"past": ["was", "were"]
+	},
+
+	"better|adj": {},
+
+	"breakfast|n": {
+		"cat": ["Breakfast"]
+	},
+
+	"brunch|n": {
+		"cat": ["Brunch"]
+	},
+
+	"bye|int": {
+		"syn": ["goodbye", "good bye", "adios", "so long", "farewell"]
+	},
+
+	"cafe|n": {
+		"cat": ["Cafes"]
+	},
+
+	"cajun|adj": {
+		"syn": ["creole"],
+		"cat": ["Cajun & Creole"]
+	},
+
+	"Californian|adj": {
+		"cat": ["Californian"]
+	},
+	"Californian|n": {},
+
+	"can|m": {
+		"syn": ["may", "might"],
+		"past": ["could"]
+	},
+
+	"cater|v": {},
+	"catered|adj": {},
+	"catering|n": {
+		"cat": ["Catering"]
+	},
+
+	"carry out|n": {
+		"cat": ["Carry Out"]
+	},
+
+	"cheap|adj": {
+		"cat": ["Cheap Eats"],
+		"syn": ["inexpensive"]
+	},
+
+	"chicken|n": {
+		"cat": ["Chicken"]
+	},
+
+	"Chinese|adj": {
+		"cat": ["Chinese"]
+	},
+	"Chinese|n": {},
+
+	"club|n": {
+		"cat": ["Bars & Clubs"]
+	},
+
+	"coffee|n": {
+		"syn": ["caffeine"],
+		"cat": ["Coffeehouses"]
+	},
+
+	"cook|v": {},
+
+	"credit card|n": {
+		"cat": ["American Express", "Discover", "MasterCard", "Visa"]
+	},
+
+	"dairy|n": {
+		"cat": ["Dairy Products"]
+	},
+
+	"debit card|n": {
+		"cat": ["Debit Card"]
+	},
+
+	"deli|n": {
+		"cat": ["Delis and Delicatessens"],
+		"syn": ["delicatessen"]
+	},
+
+	"deliver|v": {},
+	"delivery|n": {
+		"cat": ["Food Delivery"]
+	},
+
+	"dessert|n": {
+		"cat": ["Dessert Shops"]
+	},
+
+	"diner|n": {
+		"cat": ["Diners"]
+	},
+
+	"diners club|n": {
+		"cat": ["Diners Club"]
+	},
+
+	"dinner|n": {	},
+
+	"do|m": {
+		"syn": ["does"],
+		"past": ["did"]
+	},
+
+	"doughnut|n": {
+		"cat": ["Doughnut Shops"],
+		"syn": ["donut"]
+	},
+
+	"drink|v": {},
+	"drink|n": {
+		"cat": ["Bars & Pubs", "Taverns"],
+		"syn": ["alcohol"]
+	},
+
+	"drive|v": {
+		"past": ["drove"]
+	},
+	"drive|n": {},
+
+	"eat|v": {
+		"past": ["ate"]
+	},
+
+	"entertainment|n": {
+		"syn": ["fun"],
+		"cat": ["Arts & Entertainment"]
+	},
+
+	"family|n": {
+		"cat": ["Family Friendly Dining", "Family Style Dining"]
+	},
+
+	"fast food|n": {
+		"cat": ["Fast Food"]
+	},
+
+	"fatty|adj": {},
+
+	"father|n": {},
+
+	"far|adj": {
+		"syn": ["faraway", "far away", "far off", "distant", "remote"]
+	},
+
+	"find|v": {},
+
+	"food|n": {},
+
+	"friend|n": {},
+
+	"for|prep": {},
+
+	"frozen yogurt|n": {
+		"cat": ["Frozen Yogurt Shops"],
+		"syn": ["frozen yoghurt", "yogurt", "yoghurt"]
+	},
+
+	"give|v": {},
+
+	"general|adj": {},
+
+	"get|v": {
+		"past": ["got"]
+	},
+
+	"go|v": {
+		"past": ["went"]
+	},
+
+	"good|adj": {},
+
+	"grill|n": {
+		"cat": ["Grill Restaurants"]
+	},
+	"grilled|adj": {
+		"cat": ["Grill Restaurants"]
+	},
+
+	"hamburger|n": {
+		"cat": ["Hamburgers"]
+	},
+
+	"have|v": {
+		"syn": ["has"]
+	},
+
+	"hi|int": {
+		"syn": ["hello", "good morning", "good afternoon", "good evening", "hola"]
+	},
+
+	"here|n": {},
+
+	"historic|adj": {
+		"cat": ["Historic Setting"]
+	},
+
+	"how|qs": {},
+	"how|adv": {},
+	"how|how-much": {},
+
+	"hungry|adj": {},
+
+	"I|n": {
+		"syn": ["me"],
+		"plural": []
+	},
+
+	"ice cream|n": {
+		"cat": ["Ice Cream Parlors"]
+	},
+
+	"in|prep": {},
+
+	"Indian|adj": {
+		"cat": ["Indian"]
+	},
+	"Indian|n": {},
+
+	"international|adj": {
+		"cat": ["Global", "Eclectic & International"],
+		"syn": ["ethnic", "global"]
+	},
+
+	"Irish|adj": {
+		"cat": ["Irish"]
+	},
+	"Irish|n": {},
+
+	"it|n": {},
+
+	"Italian|adj": {
+		"cat": ["Italian"]
+	},
+	"Italian|n": {},
+
+	"know|v": {},
+
+	"like|v": {},
+
+	"live music|n": {
+		"cat": ["Live Music"],
+		"syn": ["music", "sound", "noise", "band"]
+	},
+
+	"local|adj": {
+		"cat": ["Local Favorite"]
+	},
+
+	"lot|n": {},
+
+	"lunch|n": {
+		"cat": ["Lunch Spot"]
+	},
+
+	"Master Card|n": {
+		"syn": ["MasterCard"]
+	},
+
+	"meat|n": {
+		"cat": ["Barbecue Restaurants", "Chicken", "Hamburgers", "Steakhouse"]
+	},
+
+	"Mexican|adj": {
+		"cat": ["Mexican"]
+	},
+	"Mexican|n": {},
+
+	"my|adj": {},
+
+	"near|adj": {
+		"syn": ["close", "nearby"]
+	},
+
+	"nice|adj": {},
+
+	"night club|n": {
+		"cat": ["Nightclubs"],
+		"syn": ["nightclub"]
+	},
+
+	"no|int": {},
+
+	"not|adv": {},
+
+	"of|prep": {},
+
+	"on|prep": {},
+
+	"one|n": {},
+
+	"open|adj": {},
+	"open|v": {},
+
+	"outdoor|adj": {
+		"cat": ["Outdoor Dining"]
+	},
+	"outdoors|adv": {},
+
+	"person|n": {
+		"syn": ["fellow"],
+		"plural": ["people", "fellows"]
+	},
+
+	"pick|v": {},
+
+	"pizza|n": {},
+
+	"poor|adj": {},
+
+	"popular|adj": {},
+
+	"place|v": {},
+
+	"really|adv": {},
+
+	"recommend|v": {},
+	"recommendation|n": {},
+
+	"restaurant|n": {
+		"syn": ["place"],
+		"plural": ["restaurants", "places"]
+	},
+
+	"romantic|adj": {
+		"cat": ["Romantic Dining"]
+	},
+
+	"rule|n": {},
+
+	"salt|n": {},
+
+	"sandwich|n": {
+		"cat": ["Sandwich Shops"]
+	},
+
+	"seafood|n": {
+		"cat": ["Seafood"],
+		"syn": ["fish"]
+	},
+
+	"serve|v": {},
+
+	"set|n": {},
+
+	"should|m": {
+		"syn": ["ought"]
+	},
+
+	"show|v": {},
+
+	"some|det": {},
+
+	"something|nb": {},
+	"sometime|adv": {},
+	"somewhere|nb": {},
+
+	"soup|n": {
+		"cat": ["Soups"]
+	},
+
+	"Southern|adj": {
+		"cat": ["Southern"]
+	},
+	"Southern|n": {},
+
+	"sports|n": {
+		"cat": ["Sports Bars"]
+	},
+
+	"steakhouse|n": {
+		"cat": ["Steakhouse"],
+		"syn": ["steak"]
+	},
+
+	"still|adv": {},
+
+	"thank you|int": {
+		"syn": ["gracias", "thanks", "thank you very much"]
+	},
+
+	"that|n": {},
+	"that|done-to-relativiser": {},
+	"that|does-relativiser": {},
+
+	"the|det": {},
+
+	"there|n": {},
+	"there|afj": {
+		"eg": ["The food there"]
+	},
+
+	"this|adj": {},
+
+	"time|n": {},
+
+	"to|is": {},
+	"to|prep": {},
+
+	"tonight|adv": {},
+	"tonight|afj": {},
+
+	"too|adv": {},
+
+	"usually|adv": {},
+
+	"very|adv": {},
+
+	"Visa|n": {},
+
+	"want|v": {},
+
+	"want|v": {},
+
+	"water|n": {
+		"cat": ["Drinking Water"]
+	},
+
+	"what|n": {},
+	"what|qs": {},
+	"what|choose": {},
+	"which|choose": {},
+	"when|qs": {
+		"syn": ["what time"]
+	},
+	"when|done-to-relativiser": {},
+	"where|qs": {},
+	"where|done-to-relativiser": {},
+	"who|qs": {},
+	"who|done-to-relativiser": {},
+	"who|does-relativiser": {},
+	"why|qs": {},
+	"why|done-to-relativiser": {},
+
+	"with|prep": {},
+
+	"without|prep": {},
+
+	"worth|adj": {},
+
+	"yes|int": {},
+
+	"you|n": {}
+}
